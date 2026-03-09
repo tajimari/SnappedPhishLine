@@ -13,4 +13,4 @@ The room focuses on phishing email analysis and investigation of phishing domain
 In this lab I reinforced my understanding of phishing techniques and practical methods for SOC-level investigations. Key takeaways include:
 - Identifying email and URL indicators of compromise
 - Using Linux tools to investigate suspicious files and URLs
-- Documenting every step of my investigation clearly for reporting
+- Documenting every step of investigation clearly for reporting
