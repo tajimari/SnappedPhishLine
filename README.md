@@ -1,16 +1,14 @@
 # Snapped Phish-ing Line - TryHackMe
 
 ## Overview
-This project documents my walkthrough of the 'Snapped Phish-ing Line' room on TryHackMe.  
-The room focuses on phishing email analysis and investigation of phishing domains.
+This room on TryHackMe simulates a scenario in which several employees become victims to a phishing email campaign. 
+My task is to analyze the emails and investigate the phishing campaign.
 
 ## Skills Demonstrated
-- Linux command-line usage for forensic analysis, especially use of grep command
+- Linux command-line usage for analysis, especially use of grep command
 - Email header and phishing indicator analysis
 - URL enumeration
 
 ## Reflection
-In this lab I reinforced my understanding of phishing techniques and practical methods for SOC-level investigations. Key takeaways include:
-- Identifying email and URL indicators of compromise
-- Using Linux tools to investigate suspicious files and URLs
-- Documenting every step of investigation clearly for reporting
+This lab reinforced my understanding of phishing techniques and practical methods for investigating phishing emails. I also
+learned that there are many tools for analysis, and I should take note of when to use which tools. 
