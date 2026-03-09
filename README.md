@@ -1,4 +1,4 @@
-# Snapped Phish-ing Line Lab - TryHackMe
+# Snapped Phish-ing Line - TryHackMe
 
 ## Overview
 This project documents my walkthrough of the 'Snapped Phish-ing Line' room on TryHackMe.  
